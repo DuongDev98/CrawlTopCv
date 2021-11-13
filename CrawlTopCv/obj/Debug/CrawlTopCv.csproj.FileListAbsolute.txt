@@ -1,0 +1,10 @@
+C:\Users\D-Computer\Desktop\CrawlTopCv\CrawlTopCv\obj\Debug\CrawlTopCv.csproj.AssemblyReference.cache
+C:\Users\D-Computer\Desktop\CrawlTopCv\CrawlTopCv\obj\Debug\CrawlTopCv.csproj.CoreCompileInputs.cache
+C:\Users\D-Computer\Desktop\CrawlTopCv\CrawlTopCv\bin\Debug\CrawlTopCv.exe.config
+C:\Users\D-Computer\Desktop\CrawlTopCv\CrawlTopCv\bin\Debug\CrawlTopCv.exe
+C:\Users\D-Computer\Desktop\CrawlTopCv\CrawlTopCv\bin\Debug\CrawlTopCv.pdb
+C:\Users\D-Computer\Desktop\CrawlTopCv\CrawlTopCv\bin\Debug\Newtonsoft.Json.dll
+C:\Users\D-Computer\Desktop\CrawlTopCv\CrawlTopCv\bin\Debug\Newtonsoft.Json.xml
+C:\Users\D-Computer\Desktop\CrawlTopCv\CrawlTopCv\obj\Debug\CrawlTopCv.csproj.CopyComplete
+C:\Users\D-Computer\Desktop\CrawlTopCv\CrawlTopCv\obj\Debug\CrawlTopCv.exe
+C:\Users\D-Computer\Desktop\CrawlTopCv\CrawlTopCv\obj\Debug\CrawlTopCv.pdb
